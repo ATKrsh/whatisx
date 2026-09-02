@@ -1,0 +1,17 @@
+[
+  {
+    "key": "auth_token",
+    "value": "3b1bc6926849a9ca43acc674da597966a63b3d1d",
+    "domain": ".twitter.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "key": "ct0",
+    "value": "61381ff24603bad82ec3f7d5c395ec983fb4cfa1ab3de480112d5d19eae08445b818ec6f52e2144715c6a3691fa86f1c94aa2b825dbcf7ba140547c3db6455048e14eeec8ae354f2a941041b26dce8df",
+    "domain": ".twitter.com",
+    "path": "/",
+    "secure": true
+  }
+]
